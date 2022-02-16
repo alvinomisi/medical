@@ -1,0 +1,8 @@
+*{
+    margin: 12px;
+    padding: 5px;
+  font-family: sans-serif;  
+  color: rgb(12, 24, 24);
+  align-items: center;
+  justify-content: space-between;
+}
